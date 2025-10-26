@@ -1,4 +1,3 @@
-
 # Olympic Medals Analysis (1976–2008)
 Objective
 The purpose of this project is to perform an exploratory data analysis (EDA) on the Summer Olympic Games (1976–2008) dataset.
